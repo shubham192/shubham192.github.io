@@ -74,7 +74,7 @@ footer: true
 # Enable animations? true or false
 animation: true
 
-gems:
+plugins:
   - jekyll-seo-tag
   - jemoji
 
